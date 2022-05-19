@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/Bitcoin/static/js/main.83f531f3.js",
+    "index.html": "/Bitcoin/index.html",
+    "main.83f531f3.js.map": "/Bitcoin/static/js/main.83f531f3.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.83f531f3.js"
+  ]
+}
